@@ -1,6 +1,8 @@
 @font-face {
   font-family: "Star Jedi";
   src: url("./fonts/Starjedi.ttf");
+  font-weight: 400;
+  font-style: normal;
 }
 
 body {
@@ -48,6 +50,7 @@ h2 {
   font-family: "Star Jedi", Arial, Helvetica, sans-serif;
   font-size: 4em;
   transform: rotateX(20deg);
+  letter-spacing: 3px;
 }
 
 h4 {
